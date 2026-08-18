@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-sx4069.juragan89a.site/sitemap.xml
